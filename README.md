@@ -1,0 +1,4 @@
+fapchecker
+==========
+
+updatechecker for imagefap
